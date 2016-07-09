@@ -1,0 +1,14 @@
+layout_spectrum: 0.37280449317768216
+typography_spectrum: 0.7648089719004929
+color:
+  brandStrength: 0.4650554226245731
+  lightness: 0.9197358682285994
+  saturation: 0.7428316469304264
+  rhythmicContrast: 0.4485303838737309
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+name: milky way
